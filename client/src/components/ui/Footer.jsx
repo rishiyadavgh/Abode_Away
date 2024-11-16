@@ -48,7 +48,7 @@ const Footer = () => {
             <strong className="font-medium">Hosting</strong>
             <p>
               <span className="cursor-pointer font-normal text-gray-700 decoration-1 underline-offset-1 hover:underline">
-                Airbnb your home
+                AbodeAway your home
               </span>
             </p>
             <p>
@@ -73,7 +73,7 @@ const Footer = () => {
             </p>
           </div>
           <div className="flex flex-col gap-1">
-            <strong className="font-medium">Airbnb</strong>
+            <strong className="font-medium">AbodeAway</strong>
             <p>
               <span className="cursor-pointer font-normal text-gray-700 decoration-1 underline-offset-1 hover:underline">
                 Newsroom
@@ -96,7 +96,7 @@ const Footer = () => {
             </p>
             <p>
               <span className="cursor-pointer font-normal text-gray-700 decoration-1 underline-offset-1 hover:underline">
-                Airbnb.org emergency stays
+                AbodeAway.org emergency stays
               </span>
             </p>
           </div>
